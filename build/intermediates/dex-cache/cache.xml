@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\WorkSpaces\Github\ImageSelector\sample\build\intermediates\exploded-aar\ImageSelector\lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b88fd183aa3117d352e9629c16cd79e7fdc09fa2">
+        <dex dex="E:\WorkSpaces\Github\ImageSelector\sample\build\intermediates\pre-dexed\debug\classes-86f3d2c7ec4de7b81e9fa90ad423f9cdebde4a6e.jar" />
+    </item>
+
+</items>

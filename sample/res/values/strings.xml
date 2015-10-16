@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="images_selected">选择的图片</string>
+
+    <string name="whether_crop">是否需要裁剪(注:只有选择一张图片的时候才可以裁剪图片)：</string>
+    <string name="crop_border_shape">裁剪边框形状：</string>
+    <string name="whether_camera">是否显示相机：</string>
+    <string name="select_mum">需要选择的数量：</string>
+
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="circle">圆形</string>
+    <string name="square">正方形</string>
+    <string name="single">单张</string>
+    <string name="other">其他</string>
+
+    <string name="input_num">输入数量</string>
+
+    <string name="error_select_count_empty">非单选模式,图片选择数量不能为空</string>
+</resources>
