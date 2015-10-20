@@ -1,105 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e0412189-6367-42c7-846f-f833cbcaa8c5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/assets/001.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample/assets/002.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageselector/imageselector.iml" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\.idea\ImageSelector.iml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\Constant.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\Directory.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\FileTools.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\Image.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\ImageSelectorActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\ImageSelectorConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\ImageTools.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\Logs.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\MultiImageSelectorFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropCompat.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropCupcakeGestureDetector.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropEclairGestureDetector.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropFroyoGestureDetector.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropGingerScroller.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropIcsScroller.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropOverlayView.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropPhotoView.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropPhotoViewAttacher.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropPreGingerScroller.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropScrollerProxy.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\CropVersionedGestureDetector.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\DefaultOnDoubleTapListener.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\GestureDetector.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\IPhotoView.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\ImageCropperActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\java\cn\joy\imageselector\crop\OnGestureListener.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\lib.iml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_crop_height.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_crop_ic_close.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_crop_ic_ok.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_crop_indicator_autocrop.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_crop_selector_indicator.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_crop_turn_left.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_crop_turn_right.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_crop_width.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_selector_btn_selected.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_selector_btn_unselected.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_selector_camera.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_selector_ic_arrow_back.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_selector_load_error.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_selector_loading.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable-xhdpi\image_selector_title_indicator.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable\image_selector_btn_ok.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable\image_selector_check.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable\image_selector_round_ok.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable\image_selector_round_ok_disable.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\drawable\image_selector_round_ok_pressed.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\layout\abslistview_load_more_default_footer.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\layout\image_crop_activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\layout\image_cropper_activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\layout\image_selector_activity.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\layout\image_selector_directory_item.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\layout\image_selector_fragment.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\layout\image_selector_item_camera.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\layout\image_selector_item_image.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values-en-rGB\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values-en-rUS\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values-sw320dp\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values-sw360dp\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values-sw400dp\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values-sw480dp\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values-sw600dp\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values-sw720dp\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values-zh-rCN\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values\attr.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values\color.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\res\values\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpaces\Github\ImageSelector\lib\src\androidTest\java\cn\joy\imageselector\ApplicationTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageSelector.iml" afterPath="$PROJECT_DIR$/ImageSelector.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build.gradle" afterPath="$PROJECT_DIR$/sample/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_22_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_22_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/cropper_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/cropper_1_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_22_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_22_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/sample.iml" afterPath="$PROJECT_DIR$/sample/sample.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/assets/001.gif" afterPath="$PROJECT_DIR$/sample/assets/001.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/assets/002.gif" afterPath="$PROJECT_DIR$/sample/assets/002.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ImageSelector.iws" />
@@ -130,11 +42,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1748179">
+            <state vertical-scroll-proportion="-6.0">
               <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageSelectorConstants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imageselector/java/cn/joy/imageselector/ImageSelectorConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiImageSelectorFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imageselector/java/cn/joy/imageselector/MultiImageSelectorFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.661017">
+              <caret line="181" column="47" selection-start-line="181" selection-start-column="47" selection-end-line="181" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="View.java" pinned="false" current-in-tab="true">
+        <entry file="file://E:/WorkApp/Android/sdk/sources/android-22/android/view/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6131498">
+              <caret line="17030" column="5" selection-start-line="17030" selection-start-column="5" selection-end-line="17030" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -2641,6 +2583,64 @@
               <option name="myItemId" value="ImageSelector" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageSelector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cropper-1.0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageSelector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cropper-1.0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageSelector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cropper-1.0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cropper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2659,6 +2659,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ImageSelector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imageselector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageSelector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageSelector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imageselector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2904,16 +2926,16 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32907662" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32907662" sideWeight="0.4978678" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32907662" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32907662" sideWeight="0.5021322" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20575693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -3083,8 +3105,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1748179">
+        <state vertical-scroll-proportion="-6.0">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imageselector/java/cn/joy/imageselector/ImageSelectorActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imageselector/java/cn/joy/imageselector/ImageSelectorConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imageselector/java/cn/joy/imageselector/MultiImageSelectorFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.661017">
+          <caret line="181" column="47" selection-start-line="181" selection-start-column="47" selection-end-line="181" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/WorkApp/Android/sdk/sources/android-22/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6131498">
+          <caret line="17030" column="5" selection-start-line="17030" selection-start-column="5" selection-end-line="17030" selection-end-column="5" />
           <folding />
         </state>
       </provider>
