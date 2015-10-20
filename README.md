@@ -3,34 +3,37 @@
 
 
 ##功能
-1.是否显示相机
-2.选择图片的数量（单张、其他）
-3.是否需要裁剪（只有图片数量模式选择为单张的时候此功能才会生效）
-4.裁剪边框的形状（目前有正方形、圆形以供选择）
+1.是否显示相机<br>
+2.选择图片的数量（单张、其他）<br>
+3.是否需要裁剪（只有图片数量模式选择为单张的时候此功能才会生效）<br>
+4.裁剪边框的形状（目前有正方形、圆形以供选择）<br>
 
 
-![ImageSelector](https://github.com/Joy-Whale/ImageSelector/sample/assets/001.gif)
-![ImageSelector](https://github.com/Joy-Whale/ImageSelector/sample/assets/002.gif)
+![ImageSelector](https://github.com/Joy-Whale/ImageSelector/raw/master/sample/assets/001.gif)
+![ImageSelector](https://github.com/Joy-Whale/ImageSelector/raw/master/sample/assets/002.gif)
 
 
 ## 使用
 
+### gradle
+  ~~~xml
   compile{
      'cn.joy:imageselector:1.0.1'
   }
-
+  ~~~
 
 ### xml
-
   添加以下代码到AndroidManifest.xml中：
-    <activity android:name="cn.joy.imageselector.ImageSelectorActivity"/>
+  ~~~xml
+    <activity android:name="cn.joy.imageselector.ImageSelectorActivity"/><br>
     <activity android:name="cn.joy.imageselector.crop.ImageCropperActivity"/>
+  ~~~
 
 
 ### java
-
   Example:
 
+  ~~~java
   Intent intent = new Intent(this, ImageSelectorActivity.class);
   intent.putExtra(ImageSelectorActivity.EXTRA_IMAGE_SELECTOR_MODE, ImageSelectorActivity.IMAGE_SELECTOR_MODE_SINGLE_CROP);
   intent.putExtra(ImageSelectorActivity.EXTRA_IMAGE_SELECTOR_SHOW_CAMERA, true);
@@ -53,3 +56,4 @@
         // ImageSelectorActivity.RESULT_IMAGE_SELECTED_PATH中存放有返回的图片地址,用法同onActivityResult()
      }
   }
+  ~~~
