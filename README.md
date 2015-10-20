@@ -34,12 +34,12 @@
   Intent intent = new Intent(this, ImageSelectorActivity.class);
   intent.putExtra(ImageSelectorActivity.EXTRA_IMAGE_SELECTOR_MODE, ImageSelectorActivity.IMAGE_SELECTOR_MODE_SINGLE_CROP);
   intent.putExtra(ImageSelectorActivity.EXTRA_IMAGE_SELECTOR_SHOW_CAMERA, true);
-  intent.putExtra(ImageSelectorActivity.EXTRA_IMAGE_SELECTOR_CROP_SHAPE, ImageSelectorActivityIMAGE_SELECTOR_CROP_SHAPE_CIRCLE);
+  intent.putExtra(ImageSelectorActivity.EXTRA_IMAGE_SELECTOR_CROP_SHAPE,ImageSelectorActivityIMAGE_SELECTOR_CROP_SHAPE_CIRCL;
   startActivityForResult(intent, REQUEST_CODE);
 
   // 1.通过onActivityResult来获取选择的图片地址
   onActivityResult(int requestCode, int resultCode, Intent data){
-     if (requestCode == REQUEST_CODE && resultCode == RESULT_OK && data.hasExtra(ImageSelectorActivity.RESULT_IMAGE_SELECTED_PATH)) {
+     if (requestCode == REQUEST_CODE&&resultCode==RESULT_OK&&data.hasExtra(ImageSelectorActivity.RESULT_IMAGE_SELECTED_PATH){
         // ImageSelectorActivity.RESULT_IMAGE_SELECTED_PATH  intent中的该字段返回的为获取的图片地址
         // 如果图像选择方式为单张,则返回的为字符串,如果为多选模式,返回的为ArrayList<String>
         // 接下来可以做其他操作
