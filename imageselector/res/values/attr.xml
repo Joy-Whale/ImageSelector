@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Crop overlay view -->
+    <declare-styleable name="CropOverlayView">
+        <attr name="joy_overlay_guideLines" format="boolean"/>
+        <attr name="joy_overlay_width" format="dimension"/>
+        <attr name="joy_overlay_height" format="dimension"/>
+        <attr name="joy_overlay_border" format="color"/>
+        <!-- 覆盖物形状 -->
+        <attr name="joy_overlay_shape">
+            <flag name="square" value="0x1"/>
+            <flag name="circle" value="0x2"/>
+        </attr>
+    </declare-styleable>
+</resources>

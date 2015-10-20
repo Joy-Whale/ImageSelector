@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="image_selector_all">All Images</string>
-    <string name="image_selector_done">Done</string>
-    <string name="image_selector_done_format">Done(%1$s/%2$s)</string>
-    <string name="image_selector_camera">Take Photo</string>
-    <string name="image_selector_msg_amount_limit">Pictures of the single choice up to no more than %d</string>
-</resources>

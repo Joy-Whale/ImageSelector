@@ -1,0 +1,41 @@
+<resources>
+    <!-- 1.5 -->
+
+    <dimen name="size_1">0.67dp</dimen>
+    <dimen name="size_2">1.33dp</dimen>
+    <dimen name="size_3">2dp</dimen>
+    <dimen name="size_4">2.67dp</dimen>
+    <dimen name="size_5">3.33dp</dimen>
+    <dimen name="size_8">5.33dp</dimen>
+    <dimen name="size_10">6.67dp</dimen>
+    <dimen name="size_12">8dp</dimen>
+    <dimen name="size_15">10dp</dimen>
+    <dimen name="size_20">13.33dp</dimen>
+    <dimen name="size_25">16.67dp</dimen>
+    <dimen name="size_30">20dp</dimen>
+    <dimen name="size_40">26.67dp</dimen>
+    <dimen name="size_50">33.33dp</dimen>
+    <dimen name="size_60">40dp</dimen>
+    <dimen name="size_70">46.67dp</dimen>
+    <dimen name="size_80">53.33dp</dimen>
+    <dimen name="size_100">66.67dp</dimen>
+    <dimen name="size_120">80dp</dimen>
+    <dimen name="size_130">86.67dp</dimen>
+    <dimen name="size_140">93.33dp</dimen>
+    <dimen name="size_150">100dp</dimen>
+    <dimen name="size_180">120dp</dimen>
+    <dimen name="size_200">133.34dp</dimen>
+    <dimen name="size_250">166.67dp</dimen>
+    <dimen name="size_280">186.67dp</dimen>
+    <dimen name="size_300">200dp</dimen>
+    <dimen name="size_350">233.33dp</dimen>
+    <dimen name="size_400">266.67dp</dimen>
+    <dimen name="size_450">300dp</dimen>
+    <dimen name="size_500">333.33dp</dimen>
+    <dimen name="text_small">8.33sp</dimen>
+    <dimen name="text_middle">10sp</dimen>
+    <dimen name="text_large">12sp</dimen>
+    <dimen name="text_xlarge">14.67sp</dimen>
+    <dimen name="text_xxlarge">18.67sp</dimen>
+
+</resources>
