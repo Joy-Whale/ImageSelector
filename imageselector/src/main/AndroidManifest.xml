@@ -1,0 +1,8 @@
+<manifest package="cn.joy.imageselector"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <application android:allowBackup="true">
+        <activity android:name="cn.joy.imageselector.ImageSelectorActivity"/>
+        <activity android:name="cn.joy.imageselector.crop.ImageCropperActivity"/>
+    </application>
+</manifest>

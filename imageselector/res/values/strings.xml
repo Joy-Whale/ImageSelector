@@ -1,8 +1,0 @@
-<resources>
-    <string name="image_selector_all">所有图片</string>
-    <string name="image_selector_done">完成</string>
-    <string name="image_selector_done_format">完成(%1$s/%2$s)</string>
-    <string name="image_selector_camera">拍摄照片</string>
-    <string name="image_selector_msg_amount_limit">单次选择图片最多不能超过%d张</string>
-
-</resources>
